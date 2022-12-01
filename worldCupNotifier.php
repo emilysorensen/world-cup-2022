@@ -22,7 +22,7 @@
  */
 
 // Slack stuff
-const SLACK_URL = 'https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX';
+const SLACK_URL = 'https://hooks.slack.com/services/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';
 
 const USE_PROXY = false;
 const PROXY = 'http://myproxy:3128';
@@ -73,7 +73,7 @@ $language = [
  * FIFA API.
  */
 
-// 2018 World Cup
+// 2022 World Cup
 const ID_COMPETITION = 17;
 const ID_SEASON = 255711;
 
