@@ -22,7 +22,7 @@
  */
 
 // Slack stuff
-const SLACK_URL = 'https://hooks.slack.com/services/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';
+const SLACK_URL = 'https://hooks.slack.com/services/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';
 
 const USE_PROXY = false;
 const PROXY = 'http://myproxy:3128';
